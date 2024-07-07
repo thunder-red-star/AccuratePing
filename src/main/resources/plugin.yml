@@ -1,0 +1,16 @@
+name: AccuratePing
+version: '${project.version}'
+main: me.thdr.accurateping.AccuratePing
+api-version: '1.20'
+load: POSTWORLD
+depend: []
+softdepend: [PlaceholderAPI, Skript]
+authors: [ThunderRedStar]
+description: Transaction-based ping.
+website: example.invalid
+commands:
+  accurateping:
+    description: Get the player's transaction ping.
+    usage: /accurateping [player]
+    permission: accurateping.use
+    aliases: [ap]

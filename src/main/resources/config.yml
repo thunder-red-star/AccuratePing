@@ -1,0 +1,4 @@
+# hook into skript?
+enable-skript: true
+# in ticks, how often to request ping. don't set this too low, it will eat up player bandwidth
+update-interval: 5

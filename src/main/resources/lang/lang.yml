@@ -1,0 +1,5 @@
+messages:
+  player-not-found: "Can't find that player!"
+  not-a-player: "Console can't have ping :trollskull:"
+  ping-self: "Your ping is: %ping% ms"
+  ping-other: "%player%'s ping is: %ping% ms"
